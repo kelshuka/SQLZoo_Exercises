@@ -1,3 +1,3 @@
 # SQLZoo_Exercises
 
-This contains some answers to quiz from
+This contains some answers to quiz from SQL Zoo.
